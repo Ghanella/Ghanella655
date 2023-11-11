@@ -1,0 +1,26 @@
+{
+  "name": "Jon Mathis",
+  "age": 32,
+  "address": {
+    "street": "Ituhuf Lane",
+    "city": "Janozip",
+    "state": "LA",
+    "zip": "72366"
+  },
+  "contact": {
+    "phone": "(842) 824-5947",
+    "servicePhone": "800387281"
+  },
+  "birthday": "1980-01-21T00:06:34.574Z",
+  "ip": "223.139.179.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Cagwofoso fopteb pa hohcu tukzulgo oflisoz lo socfop siz jojbaja cev ro makliuze hacbuw ogo aptabzih. Tametfo fo hih vevivu be efhet pa naj bona unu tozopja beh. Buv ufe vi pir mi ufjo hev na li vo tatockej ivbugid pumeafu jechas so fos.",
+    "bio": "At jih vobilav hif amepa igokem uno guz ivi uni fakpuhpe burijher. Ki gif niwubag busamkeb po ro toporhed mo vuccijmaw zekbepe jasan evu nefoheci ren. Zurop ic atopuc goden atju en woren vikuk panom eho hazpup fodnof roruvzi mumomne satki. Cudluv woiju vedgalmic kudagi en egawe gowho hudokhic ziwwoz gerutzad do oddajtu ceil tuul. Feeta ik forabjiz lu tovbo meib hobu viflejuc bazi jigegesi jetugi gav."
+  },
+  "apiKey": "f13ad593d3c18a32f9f8260ce1842da0e5d84730b89d4b329cf30bde9636227a",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
