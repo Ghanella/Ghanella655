@@ -1,0 +1,26 @@
+{
+  "name": "Billy Stone",
+  "age": 28,
+  "address": {
+    "street": "Gacan Pike",
+    "city": "Pibuzto",
+    "state": "MN",
+    "zip": "33407"
+  },
+  "contact": {
+    "phone": "(813) 271-3321",
+    "servicePhone": "800275958"
+  },
+  "birthday": "1989-07-05T09:54:25.198Z",
+  "ip": "100.176.6.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri jup vodvah simu cozijwe asororo bogena ra sutez uvmu ejilav ocmif gekob. Ufjetog berolu mam sorarpar fuga ellizo acuir icti wa hesuprol lo uskud ufouw get. Ata agseuje vavuluwu movmudagi jaskihu igimud da woultuz uwi doojeki weztidhac zej deszoh liewe ze zidzu pagita tikrimgu.",
+    "bio": "Siiri esumir ma ufecowjaf zuza pep su locwice waip civwor haasnuz podib nog hohpaf. Nikipho zosupci coticuc ki im wedkubvez obaet gucod ce nerpadli vuazmi dilhik ri kamgom kiwef geud gokur. Ubhocu jodot accowu modgica sozzeb wu itonuctag lufef rar ko ma fom ad fummek mirsikmuz tizubipa uwbanu recaagu."
+  },
+  "apiKey": "dee99ca1f6fcb26b14be426e4c10b8fb27c250a56998cbbd6df65ed6f0106705",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
