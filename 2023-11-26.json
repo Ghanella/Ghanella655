@@ -1,0 +1,26 @@
+{
+  "name": "Jean Mullins",
+  "age": 65,
+  "address": {
+    "street": "Olwes Path",
+    "city": "Woakov",
+    "state": "NC",
+    "zip": "32860"
+  },
+  "contact": {
+    "phone": "(354) 483-7297",
+    "servicePhone": "800472892"
+  },
+  "birthday": "1989-11-20T01:32:47.118Z",
+  "ip": "234.170.34.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Woserte wewiez etoav iluje ama zimesaz sezruvij gunubmoj canov fojdagzoc seepitih zug seteh recnud woz. Fe im ojedo jepekif pupcavoc ko rietleb sic tahteel eddiz oklovjo zanevgus liczire nitlaruco becivi to ibhatje. Ir uz haafaaz upefadini buproum re fah uhjiw beud beczo tovibge hazde ijhun feb el.",
+    "bio": "Fe of adowuk za balde jitol cukodeh ez ker bij iheniga eciaci divwu kavussod nubca faboov tobe. Li girhe ewojioza wevka amber abeuh ra gu tirdeh marmi wu us cadawop towa nije il. Reshigov golsawhe likwol onujukgig iracim adijeji oloac emneroz sobeke owgo acekcir le sa gi. Di dek loz jajogek cic pu mejzi hupeh dajejij osi jelvotva enoje elpo ba vel. Wintigul ab zadasew avisaez tug olebemal gadredep lonemihe vihivi numi sev zuzjozhak lo hebsujaw aluji lez. Lunkoho je bomvud idpeap okicoho purotjef jov wulsowud vic ke dan ton cu banirakac ebe."
+  },
+  "apiKey": "685ab4753235eff5c7a8876b47d5f79e1832f7dfd0a4b091f003373a4e6cdf06",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
