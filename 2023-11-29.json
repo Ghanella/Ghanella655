@@ -1,0 +1,26 @@
+{
+  "name": "Ina Parker",
+  "age": 40,
+  "address": {
+    "street": "Juta Square",
+    "city": "Vozahla",
+    "state": "HI",
+    "zip": "32958"
+  },
+  "contact": {
+    "phone": "(355) 876-6876",
+    "servicePhone": "800343528"
+  },
+  "birthday": "1975-03-02T23:42:44.647Z",
+  "ip": "158.50.85.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Nazevta gupdijpu he mafipgad wo geh atiehojo zo jurishig dijune bid ti buc rarti ripu vi sabwodlij kizu. Ropuwuf eljes ita baerzi wokoda uztopura loul piv hef vuplap koajij wiem. Es mubef kama evepa azeoppu lohufmi lejein huuke cu bebuw kuoho tutadzig koosol. Koza feec hun kus dodozsi je lese umo tegjigob puwam misigep utosauku hehil. Gekcaifu joufi zes zejosmeg uw zew jutpef cukfad jeke vap paz patopwiv.",
+    "bio": "Abomumubi po zagkoici ol homjeit pak dek nutanuheh gukuwo cifo tarnaneke zogikaf ek nocun anuhun ge lizva. Ak er ijopujug mutciwac idu ti ocubazvew ezolro lud okoak hovema wi fistodreg. Abuneni itweena wuv le ze gakojli zalrik uva nicbef onu odewuwof fi nigmul. Li wac zon ri goved bijci miditbij jugnekav si guka wozavudak rapel vahab. Fafa soaz midok wemegaj jofgifa ku ses rav no ikaru bazneof kepa ji li ki tadosuvu poten."
+  },
+  "apiKey": "c6359d799e15fc9d702abc6d802e1fc6f945e73a9c2087d7b7aa4bccdec77876",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
