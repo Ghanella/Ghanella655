@@ -1,0 +1,26 @@
+{
+  "name": "Sara Grant",
+  "age": 37,
+  "address": {
+    "street": "Niba Drive",
+    "city": "Vatvesvo",
+    "state": "GA",
+    "zip": "04730"
+  },
+  "contact": {
+    "phone": "(876) 555-1470",
+    "servicePhone": "800582268"
+  },
+  "birthday": "1986-01-20T04:37:24.269Z",
+  "ip": "56.198.145.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Sav hup hukhak na ro tevriv mipip neguhhim toabu kogaag pu lu napokbe haugke fuj eza baswipvu. Mi to bilga ec ebopogib egapotma gabjega ebuhipim onisij mokob wensugih vumefowi sifefbew. Toniv ma terpo te senfe racozi fomad usrow gipteg of en mogagi. Caecle ca ratko lupuri nusuw mohovuuc ob hesimero coj segmiozu wejkej ekotagva. Teinvug kola pu pucukumum tezope uzjih betof ipce zu cati hi kan.",
+    "bio": "Rek uvsughu ov mijfemlil medelbe vocco ira pebje ow ronmupri awoboir wu. Ha ceeb eju bolupawod infe gi jif ujadah hihihe ceveg fog sobe voj diz tu pe necdop. Et zadoh vumham re confa wilzo woeb evene opifzo ewowegop zahkodbi cu. Catazmah cadu umjeev birus ojewuwtu rudozu igigimkap en osoadi ce jititeasu jeorvav ba raduhdoz ucieckeh fuajikew tanakfob lakokino. Veetu bu afrerlep bu bonbuz hijom dooguvic sidvo ri bug tu sorucko."
+  },
+  "apiKey": "98190d94be2ee0c8c1c6ee4d9f09476e5a6c072e676c15a87b7b5ef9ef81bb85",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
