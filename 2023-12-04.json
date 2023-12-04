@@ -1,0 +1,26 @@
+{
+  "name": "Mable Wagner",
+  "age": 30,
+  "address": {
+    "street": "Ofuel Point",
+    "city": "Sufikcu",
+    "state": "MD",
+    "zip": "57574"
+  },
+  "contact": {
+    "phone": "(967) 639-6222",
+    "servicePhone": "800472749"
+  },
+  "birthday": "1974-07-12T07:31:04.133Z",
+  "ip": "35.242.161.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Usealiful geka buvar vafa ziacecug regbo zebvun seso gazta piun ceveij rav satza gehiva pomaf vuac. Huimugi ivgog bal vuvo watil hesacgi gemfiduv pa daob gas na ow lel cujjo. Cegal ok ze vi akofiji dagcivig tik mov azu fa nazna gizulej itsa rawmagwog iruol acigifu rewo or.",
+    "bio": "Itifezij op heevuifo or adeceaf favcup sinhe bekaf orpusid kivkapmur fe ri fu bor kuvla cat. Lidkih rugosno cofninob dami zofpapos re jukgokbo ubtonkur lowguw dinewuce voigujot gametgeg tem ednef as ho zebpip ifajed. Ulema af kas dovgegbem teaw gokiga hisos codsames appa ovu abusetiwi amonifeki zen zez wobal hodpod lih zumew."
+  },
+  "apiKey": "e84fcd551a6e391692f742b9256cb61c2c176f39497265828aa3dc4fd02b91c6",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
