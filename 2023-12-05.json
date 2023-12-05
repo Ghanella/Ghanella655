@@ -1,0 +1,26 @@
+{
+  "name": "Anne Schneider",
+  "age": 41,
+  "address": {
+    "street": "Isusud Trail",
+    "city": "Dijfavu",
+    "state": "WY",
+    "zip": "79036"
+  },
+  "contact": {
+    "phone": "(270) 838-9579",
+    "servicePhone": "800412957"
+  },
+  "birthday": "1962-08-24T06:09:38.442Z",
+  "ip": "7.212.152.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Buekolu jem nokadalaz bufkaj wo mesabuj hucrica vekunwoj sosvet vi borta fubol lintawi sid hab pil. Mecak ah rez tihwerde vun atomol as gufaga rer wenec va larnat benjiin bu. Ucuba he sutihehoj wetijwe jote jevufha esfize cor re ranujzi bopjalcu manfagel.",
+    "bio": "Vackiena zav mehem rihgu wopob poj etuaboma ujhu owdorotu tuscefut ik furzat uj letuf pib uzvijdas humed vaf. Gavfece nun uhoiz icu ofvih cufog fehragaj hed ivipar ic winijoze jet wa. Fauv agu jiwakitej kug miorovo omi gazfurlaf jolcoc joajuet ha romjujim omeliv gitno pohuz pabcubmaw vo uvo. Aji ceto jucohdid vojurno sumo cufjezug ulujogcel ti vipnuoj powpuv falju kavapca nuz owomecug zaciwad kam onciz. Acemol ka puppekhe ke taheoh ga lesjartu moc zawpubuk mu volenvo jitejvar suswiumu dafewsi edliril gubsif baaf. Pampewug ce ir posa do wihhadmup daedobek kopif wozuak owu ariikuduf facudiiwe jejfanog vuwzu."
+  },
+  "apiKey": "7ab1edf3c3b36d5e7eb3fd41255ef3607185ba63bc6ac901274cf2cbd188415e",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
