@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Brady",
+  "age": 47,
+  "address": {
+    "street": "Kakla Turnpike",
+    "city": "Fuzamveg",
+    "state": "NY",
+    "zip": "94604"
+  },
+  "contact": {
+    "phone": "(760) 444-5447",
+    "servicePhone": "800374413"
+  },
+  "birthday": "1982-08-30T12:42:47.525Z",
+  "ip": "68.187.114.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Iv uzuninzi sicuc mita wibza eto ocowep awecu jeomsec figevij zegos jirus cu kiwnutos seh ajovopiw zejo cawzo. Rehhec kopoku ehe sihmeb zifo pal otsus lefuki fu hifpejme zubtuc nougwag sik vul betla keru ir. To ajefur garmedjil rehca da uhde irurivi if kic jofgitob woknec mumivzeh esekuaj naeco ate.",
+    "bio": "Nulumu teribu odunuvu wosaj supi pic peuvopi datcat pep soopocij kutbekog wit koun emade uhi ka ocjogkid. Saraer sahjan kadhu ah vaof ebjiwop izu aduvociga di nodugahu la ona wuzri. Veli depepuca camup riizju imuaftal vapluoj fouja ofubu ni ho epvu ako omovobemu vephub iceuba."
+  },
+  "apiKey": "6ed5db32b4d4ded58c2e288064a002c7a3e61f0fb1b52a3b717d73f7d5859881",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
