@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Hale",
+  "age": 36,
+  "address": {
+    "street": "Macof Grove",
+    "city": "Tivisot",
+    "state": "ID",
+    "zip": "06219"
+  },
+  "contact": {
+    "phone": "(989) 273-8745",
+    "servicePhone": "800393385"
+  },
+  "birthday": "1996-07-07T10:28:53.921Z",
+  "ip": "155.82.37.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Hohurzov obbimse uvehated kilu ta dim tuses judkuta du je hulfinun kiftav gesow. Ja bukiked eteor sivkolul nos accareto pih noah itatefza gap jemaog kibsugnil taktibi fepdohec. Ifvig iz lefuk zu guzsed oz miz odo de ze buak nepu suma ujwep bebimi heujomom. Ivwibok duduja ifieg na fiz zacevoj ajgo rasad rab tivitog ha is.",
+    "bio": "Nu tesalrak fuhcavza vu ovuhe red ugi puhlej irobalit hek cewa joherowa ekgevfid ekedeza. Colku ba lobveroko ge eb ciharoj umo ne waklomfil vabeuh fojuwac buk. Sa liw gazugi ivu laz ku mev jo za uri aspuho wa ji cioruro. Kujuaw ew devif kuwfuvwon bi jat biva ken wofauhi nadi virzotol nezji voih jufhi tizigju waddegip rutrikac."
+  },
+  "apiKey": "b22147231ee167aceccf8b97062c32b74f09ec3faa55fd813669eb5505455915",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
