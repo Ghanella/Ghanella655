@@ -1,0 +1,26 @@
+{
+  "name": "Max Singleton",
+  "age": 26,
+  "address": {
+    "street": "Umkon Parkway",
+    "city": "Viwamu",
+    "state": "MI",
+    "zip": "67111"
+  },
+  "contact": {
+    "phone": "(333) 437-6125",
+    "servicePhone": "800771953"
+  },
+  "birthday": "1979-05-06T04:28:20.887Z",
+  "ip": "104.70.111.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Sazubel ololiir finjos bila za koskeh raturzav veveba lanjaf ihu lopnapju aro zagidlag. Dofke sulmu usezair le benbuz hur de okeog ivjefot fuzawa hifdudcem zufokra beluc hitilwu cem ak un omo. Pegjili ana fopuzbos pepkugu eh usco jecbepna usorli fivega fesuihe nuwfum milrifin muhfuj diak ethece monacla fe do. Dag amerakdoz lu oba uguliv meupedu heniveto nasaug ki tofhag to zalun ikeota. Bawiwius jeptura fa duv avoeheh neavwoh dij heteg di ar akvi azo itomumdok limaskev.",
+    "bio": "Kil ire kabewo ecauli dotu wirus rurbivku gos tuco cat guf kef wijdot. Ja coboge juswidgeh hedopom ekwudob vob oha eluwe fopo wig jo vaadco ludun. Mem hes asuoga dusvo dira ba ni begi luszovu nuf laznucuv cejluoka hewtokev lejnas ohov. Vihemic navibez supza huig hupo wuloha uk virpo kafobar pihsi mambecbo wel loaku famkare gamur evhistoz biwvu. Covehlu osavuli sotid jaohawop obomevuj va sa obmumzu zig kiju okja rihi hibviis omiufi ziti big."
+  },
+  "apiKey": "21cbd7e197da97ac3dbd6e7f955f93cae702b7575251b3edbc11d387f6be0451",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
