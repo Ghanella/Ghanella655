@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Jefferson",
+  "age": 42,
+  "address": {
+    "street": "Kavsa Terrace",
+    "city": "Rungiule",
+    "state": "FL",
+    "zip": "35962"
+  },
+  "contact": {
+    "phone": "(269) 922-1574",
+    "servicePhone": "800313898"
+  },
+  "birthday": "1998-05-25T07:14:11.558Z",
+  "ip": "174.85.18.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehizoado upotove uzwolo se ekhoniw af ocutiwi elecap rohda og koka hapde pibev. Dolu hozvod saujafi efi etnom wajehu osvouho be pejbal uno digzet ofgak upo avmud ova iftufo nijcian ceccejpu. Eli lik gib sudi jeshokmok epiuhosag zi pok na es lipkapdej hekaw fuhfilso egmejte.",
+    "bio": "Ijcela jaon fum awwofibu icejoze wiapget si tatogzes goga bop juguna ek atmop. Cavo jamokeza jacomede metruj niepomi mafupmad ku sowumoru vora bo kaojuf mujken amepojud. Rejmu gizme fovij hazijce ectiiw is caf tawivca hen daw vewruskod ni orwiktuk okdaric otupiini hehses bo mevobeko."
+  },
+  "apiKey": "1f8639e0d2d518bb0f7aac47644c54a6ebe83b44a0e493d814c28b98ffa26648",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
