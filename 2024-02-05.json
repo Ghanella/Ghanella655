@@ -1,0 +1,26 @@
+{
+  "name": "Helen Simon",
+  "age": 65,
+  "address": {
+    "street": "Beptu Key",
+    "city": "Sibnego",
+    "state": "MT",
+    "zip": "33162"
+  },
+  "contact": {
+    "phone": "(614) 938-2211",
+    "servicePhone": "800785627"
+  },
+  "birthday": "1966-07-14T10:46:25.502Z",
+  "ip": "197.99.2.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Penku ivvocala aka zar di hu bozepfi fipebob wedferi zan agoahuni gor pisze bin nonuj. Rebek aradevaf ahejlac jav lo fuvvotmub kato re gubucun were zinrudu huclaipu okbiguf lichimvi. Fi cinwo ga ugwinbe lesamli ijpuk ne zo ucu ehemiac wuija nu wifpocbah duelpa.",
+    "bio": "Wu ze efsuzi dus famwed vigrod neppo gehop bitdev ta uvwid lohwa ogsel pononwis. Zuwhuzow zej jej tatuco fu agzoun apo tifod alkehlo kuspuhfeg fo lu omiujosuv oczu. Lari jir zedu ri ar piw kam izila fub sigevif vav sotcaz ig. Tev ibadibli su fu pemuuw barid owmir viv zolruflo gowihugud cimugneb tosuaz sen nevse kop."
+  },
+  "apiKey": "42796a5f8e703707f35b092fc4f9ae0c8467dcc8b1f53922a723ab5ca7b82514",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
