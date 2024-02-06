@@ -1,0 +1,26 @@
+{
+  "name": "Ola Sherman",
+  "age": 18,
+  "address": {
+    "street": "Zeljo Avenue",
+    "city": "Odoiruos",
+    "state": "NC",
+    "zip": "46299"
+  },
+  "contact": {
+    "phone": "(516) 300-4012",
+    "servicePhone": "800359984"
+  },
+  "birthday": "1987-07-05T20:26:01.893Z",
+  "ip": "69.152.167.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Hijsi fi sepoh weot gigte wofvaf zoek ivgestab lo ura izo za ifza feloopu lu. Votsu ejevi mejbujob rajenu nudofjuh jaskebvun be ow fol ko bocaku vur kewuzeza pohzadu jil jonpujtaz. Bit urko pudgus le he mijcute kig bew vola motude ri suki. Vauvta usu wewivehu hotagu nispav funpomjev sa bukotak bedumu tipoz ezi vodozgo neh nambupweh akvim. Iki wesnut digek uw pamwanop popjeci ce jap rega cespeir riijuaj fousu.",
+    "bio": "Mahrugas lek vuwin ah of semgo rokkitfoj parpun tefi to go leuhapi. Ivu er majajet olidepik fu mafec om joj wojorsav odikab pop vigenu. Rifkiv zagbeb podouc cezo kebeif wu fo sucaobe su sop ivaetani melgugran ecni. Fogutdir zu biinave be lud ku gel izaar loteciir ife fu ho jihodu zesahe rujacmuj lo deriwka."
+  },
+  "apiKey": "2bf15bd6aa51ceaa3364a298f287e40b4fedeead952119dfbaeca2a776b3b8dc",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
