@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Rogers",
+  "age": 18,
+  "address": {
+    "street": "Idju Highway",
+    "city": "Kerokav",
+    "state": "IN",
+    "zip": "32205"
+  },
+  "contact": {
+    "phone": "(455) 276-6209",
+    "servicePhone": "800486833"
+  },
+  "birthday": "1989-08-01T03:03:11.073Z",
+  "ip": "229.147.242.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Otoku he ekijoj gulbunnuh mizabahu veta doeg sif en ava rej esizop. Seto boz jewol gahcebpog jarfe piga zil mahputof feweika jugev bib boolo ni wotot. Buz ro dozi damusida ipetnoh ikha cov cul rilodba hu cenu ilbawos fa. Tucke ipu oji kukada non lu vano ko azoojuha pevgabec joggi zipsomi.",
+    "bio": "Jiv se uv turennic jasicsop hagew litolbi dip botumal usucu zivnawse wujciw puhbocev egi funuc. Cifru mu vuptagpo owbi gehu najtukre bit na ruppur gom keap hijad. Ziw nu okpegto osabipmuf moclifkuz nu aduzoz teworafu zamueko kidja mefi muhhidja vesan sev gazejauwu noz hug fe. Fecwothof hi led te kiwavlev cicjuzan surpe edjojom fenohwi kude sokjemez dibot cu os runur biceb bugih."
+  },
+  "apiKey": "44550bca5093508b593ff1cd5f45f4cc116f41d996dcca9aeab204ccf45c2dbd",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
