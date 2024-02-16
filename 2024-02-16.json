@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Cohen",
+  "age": 26,
+  "address": {
+    "street": "Cotir Drive",
+    "city": "Igumabsen",
+    "state": "CT",
+    "zip": "18326"
+  },
+  "contact": {
+    "phone": "(312) 831-5458",
+    "servicePhone": "800881866"
+  },
+  "birthday": "1987-04-17T02:44:59.702Z",
+  "ip": "58.243.73.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Med okzo suligbu wujcu ecogazu uj igkuuru hi cocufi lawamse ujap bipina nosgoz fedu puuka. Ocanurug meob dod kumuh acavicmi ajbacro tom wagboc usukapi gu gi lieze widgib jovu vaj ud mehighif. Cuj satofaz tij siabi hu vahmuke ow cun mujof hin wios we sito. Wanirjin nerunja duso azega elumi vaspuko ra erucafi hovedi feesaal kokil howembud aduvifo pu ibufiglu comib jangooc ta.",
+    "bio": "Puwbi wagaere oho ilko tok ani teceru maz cilaf sug cavzaacu cabfijce bibe we. Vujigmab tohisgen uz ke taf jiz ric fid femih milow ritma todu nil giwrar. Dup fob zaikog pipvos cetoboz wuf olraf roegsoh mehuzo sawdisdu uvu zacsaja edutas. Voc padicbe fumrugjer revor fip judkemev kidiro medjit lu uwemeara ilri igsi ligjeg pav pobam tu es ko. Al uztitman fuf hememe sa epi lisooko daffa nitladup volotafen focvisu ipa sopduje. Nocod zi lif rudweuhe ifa duw usebu cen wa tawvuiro uguce ri."
+  },
+  "apiKey": "9731cd57ad62499b2e3e405ccfea14f08834a8ad6713bcc9984145ca5067a0f7",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
