@@ -1,0 +1,26 @@
+{
+  "name": "Mathilda Houston",
+  "age": 28,
+  "address": {
+    "street": "Ojarif Court",
+    "city": "Isvazdiz",
+    "state": "NE",
+    "zip": "13689"
+  },
+  "contact": {
+    "phone": "(503) 734-3898",
+    "servicePhone": "800551335"
+  },
+  "birthday": "1974-03-17T04:07:20.119Z",
+  "ip": "252.50.36.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Forjarbo eje ehefas taale iborilav cufkacus miplimes viw mawuc kizoksu pom dotruru vob fagik bahiksej ofuloar. Hocacmez bul do fupap goz vo kag ijnubfow genzo suclaaro gewifi mojjuvez lauk nagan ruvivefow. Ev si mep ito bifaz kemnilis fow azeutuw hamo zihkoog hitba sehu pisnuttu lojet da niitube osohi.",
+    "bio": "Nojipol rour zadvijom sovrip gikuwap belehcaf ce ceswa obo unaisikos sag biftov pusuh. Ma ziudhic sakcebpoh kifpuc izaosza suj dahdudsat hifiruve zaglanin niowawi eha aca. Ma wim teczahvon ikiur ikuziwjoh bolu hujfa didcum ecaref kupicu voobe caj."
+  },
+  "apiKey": "cb88e2099ffecd487853ac64e059bd2bedf190359e6e6bb688f73e94ca42c33c",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
