@@ -1,0 +1,26 @@
+{
+  "name": "Jean Gardner",
+  "age": 21,
+  "address": {
+    "street": "Fimhod Place",
+    "city": "Duderav",
+    "state": "AZ",
+    "zip": "52128"
+  },
+  "contact": {
+    "phone": "(710) 331-8530",
+    "servicePhone": "800898974"
+  },
+  "birthday": "1993-05-04T07:12:09.544Z",
+  "ip": "243.154.232.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Bavsed watutor tul kaikeka jolbo fof sulopaere fiswo opuujbek hatodpa punwito wewuceb zumalu vuh pehjijec of tuzog cidu. Zic cedit copam kov kem zerruika gesatiz fididezuf ri lerzoj idazabnij al ponval jowji mi wepra fehuvoj. Delag nezufes ri ru kikdaw fe in mipir kug babjodto nudom miho. Ziso jeptakjir zustarge ki lus rivlevduw tako abu uvoz onilare zajwemzat jallomba awalosir ulo daz abeti teb. Unicu savuim iji tozet jeoh nieba obapi ci ijunati hafemro saggijse wuk itisu uzmo faak.",
+    "bio": "Jowi ep zi zavaku bep itupuweh lu unozinah riodjad ruwe rebenco saruboju elinicji pis icuilofu iwe egojelew puzomulu. Pa kepolna ka cote taalma ele ow givivla gajwik azmufes libup esociata ew bizbizsew. Guf dajwos cuhwinri ke veve go du mogtij jed jo dow dowdew uvoim siujko soj il zo. Vev nogamuf to imcuwac rus ge ete letzam fol jonodi fukhigoto muf hiidsa rocijak."
+  },
+  "apiKey": "05d07f203878427166f43e605c903e341b6c3361371e3aeeec705b725a0fe69e",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
