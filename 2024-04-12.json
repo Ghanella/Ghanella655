@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Simpson",
+  "age": 19,
+  "address": {
+    "street": "Ipeca Place",
+    "city": "Temdotru",
+    "state": "PA",
+    "zip": "53960"
+  },
+  "contact": {
+    "phone": "(814) 614-2636",
+    "servicePhone": "800648855"
+  },
+  "birthday": "2003-08-04T22:42:53.917Z",
+  "ip": "171.244.95.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Viksaap juhpita weiv ha he esohane nuhothe ef mu cugomfe dienoiv buuga uw lov romkemij epcif meol onol. Asutal nupmo dozuh unro buva sogzik alkok da tecra vumo jazcujuru gow zimsigjoc gu. Sikigol fooja ji ibede onlef capmospid bavok jinaghur ovzig joruji dozjelfoj piske ruvavu saeve.",
+    "bio": "Efnofja he def meuzera avono isaveg li icjokuj jiog eziridca tu pabeoji dinkolu farcuc jikedimu fice ninhan bop. Ze vag rieta wah mo zousaiso wacac lofule bo telrocu hobe atemofoma tidihozaz vahmik du ma. Oba rekevupus rovapel oh poz so nuh irzom inu wabef guzepmoj cas zof af zevdig jeuz bivisop. Go nesmu fudfine cupcur bit ic acuvo fir mar mabrak goirhuc ose hasbi ifimopat hepzekvir. Taesuwom kimeuli wur him taaluada koecame bacgo sib tokbi okiaho iszieza zul tadibu nogken riw le zelhi pep. Cofa neapnav ifu jadma nugivazur ufoesa poveca esa lihesaf epi zacohom gilgegek folij mewu kerawow hek."
+  },
+  "apiKey": "726ef8a6855058a48075c725e08d3bc2224ebe11d92853d7eb64e20cf80b1851",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
