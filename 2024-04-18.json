@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Steele",
+  "age": 32,
+  "address": {
+    "street": "Jiel Road",
+    "city": "Hovamow",
+    "state": "DC",
+    "zip": "77293"
+  },
+  "contact": {
+    "phone": "(752) 601-7901",
+    "servicePhone": "800587242"
+  },
+  "birthday": "1991-07-31T15:43:07.178Z",
+  "ip": "126.24.68.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Akdo opuev kef ake beuro vituto honap cifpa hutzah gu siaraza se codorvik molam zana. Apu ciggeuf bitowo nunfe darga ivoso rizrop dumuzzeh ramwub atcodona pil epa kuc. Ce erozizcu ket bomaz fezdar borliv gol fimjeb womcom dicta now ed zimha bok af. Ig edimu wukbindir su sobbij huwomok dujo rumvesom eke tocsuv guzeh moekgu wikwiete caz. Kib wemoriz hiha ap nosgal akibe kud jewu was sehta ujodon oz vel cona. Ca uce otasagwe vufi mog beb tu ebo eddis izpag wauwho pecwoj hegaj gocrepla.",
+    "bio": "Powleczod onuamjo cortu vudsacgi got mejnes mi igugauc fuzadolup leje dupmo nolonicoc. Ragledik puvnedva wit ni laze ce vicze seevi gomijoz en ecito un wivuf nuvo obe pevic ul rodus. Agvin lerweg vufmordos cunfocil gijisol wudle mor wogtihuki he mo jeruti uzoiw he."
+  },
+  "apiKey": "f25cbd6b3faff3366260f9d62457b181633106f405c6f33925475b7c3b8f10c7",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
