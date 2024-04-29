@@ -1,0 +1,26 @@
+{
+  "name": "Paul Roy",
+  "age": 63,
+  "address": {
+    "street": "Jezgu Junction",
+    "city": "Kohmasvab",
+    "state": "MO",
+    "zip": "81728"
+  },
+  "contact": {
+    "phone": "(439) 421-5013",
+    "servicePhone": "800621712"
+  },
+  "birthday": "1974-07-23T06:47:05.162Z",
+  "ip": "138.231.228.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Kininoro aj sodil wuhtu osdo pogukru juppat mih kizcac se bel ziifujub. Ekpo moffideh fozvacfaz keabohu ajohiwun vi siji venol kenheh jujbi pombiduc ishawu. Fibkaci ha so uvovibuk vofi gul re jepurtoz hesi mis ob wi femecpa kime set vej za.",
+    "bio": "Gasi zunohsum tistu nefep anija ubjer naer nofnak wamunej alu omgo wugac. Rov afdus gotmir ijhu lo calimen uv norsikriz wul mudolkob pi rakpodi. Zocek ifecikni fazkerhi pulamna ri vog ome zik fuz raed ev ejamacla. Fisvu obusam ufhawit guc ped zu icugotok dof wal wovruvil zeccu capobiwil eho uzzale."
+  },
+  "apiKey": "51af3054f1fb5132fd709122f7863ed05db2b587a68e1e07c1243a7055975c5f",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
